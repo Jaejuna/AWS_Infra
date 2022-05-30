@@ -5,8 +5,8 @@
 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 - 김담형
 
 ### Info
-<https://aws.amazon.com/ko/>
-AWS 인프라 구축 가이드 public IPv4 of the instance : 3.38.244.18
+<https://aws.amazon.com/ko/> </br>
+IPv4 of the instance : 3.38.244.18
 
 ### TIL
 22.05.30 
