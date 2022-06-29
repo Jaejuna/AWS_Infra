@@ -18,6 +18,9 @@ IPv4 of the instance : 3.38.244.18
 22.06.02
 1. Installed Phusion passenger & Nginx in acutal AWS instance
 
+22.06.29
+1. starting Ch.3 configuring multi server env
+
 ### Tools
 - AWS (obviously) </br>
 - asdf (version control tool, to install node.js) </br>
